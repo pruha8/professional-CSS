@@ -42,12 +42,12 @@ body {
     color: transparent;
     margin-right: 41px;
 }
-.button-search {
+.button-search, .button-menu {
     background-color: transparent;
     border: none;
     fill: #E8E8E8;
 }
-.button-search:hover {
+.button-search:hover, .button-menu:hover {
     fill: #FF6A6A;
 }
 .header-col-2 {
@@ -55,14 +55,6 @@ body {
     align-items: center;
     list-style-type: none;
 } 
-.button-menu {
-    background-color: transparent;
-    border: none;
-    fill: #E8E8E8;
-}
-.button-menu:hover {
-    fill: #FF6A6A;
-}
 .register-link, .crate-link {
     text-decoration: none;
     color: transparent; 
